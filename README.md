@@ -10,6 +10,7 @@ A few tools I usually use to test performance in my web pages.
 - [Concatenation](#concatenation)
 - [HTTP Server](#http-server)
 - [Image](#image)
+- [Sprite](#sprite)
 - [Statistic](#statistic)
 
 
@@ -49,6 +50,14 @@ A few tools I usually use to test performance in my web pages.
 - [Kraken.io](https://kraken.io/web-interface) - Free Online Image Optimizer.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG compression tool.
 - [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression.
+
+**[back to top](#summary)**
+
+
+### Sprite
+
+- [ImageMagick](http://www.imagemagick.org/script/index.php) - Use ImageMagick to create, edit, compose, or convert bitmap images.
+- [SVG Sprite](https://github.com/jkphl/svg-sprite) - Takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types.
 
 **[back to top](#summary)**
 
