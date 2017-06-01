@@ -9,12 +9,14 @@ A few tools I usually use to test performance in my web pages.
 - [Compression](#compression)
 - [HTTP Server](#http-server)
 
+
 ### Automation
 
-- [Gulp](http://gulpjs.com/) - Automate and enhance your workflow.
 - [Grunt](https://gruntjs.com/) - The javascript task runner.
+- [Gulp](http://gulpjs.com/) - Automate and enhance your workflow.
 
 **[back to top](#summary)**
+
 
 ### Compression
 
@@ -22,6 +24,7 @@ A few tools I usually use to test performance in my web pages.
 - [GZIP](http://www.gzip.org/) - Is a compression utility designed to be a replacement for compress.
 
 **[back to top](#summary)**
+
 
 ### HTTP Server
 
