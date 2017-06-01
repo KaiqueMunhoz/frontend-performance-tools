@@ -8,6 +8,7 @@ A few tools I usually use to test performance in my web pages.
 - [Automation](#automation)
 - [Compression](#compression)
 - [HTTP Server](#http-server)
+- [Statistics](#statistics)
 
 
 ### Automation
@@ -30,5 +31,12 @@ A few tools I usually use to test performance in my web pages.
 
 - [Google App Engine](https://cloud.google.com/appengine/) - Build scalable web and mobile backends in any language on Google’s infrastructure
 - [NGINX](https://nginx.org/en/) - An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+
+**[back to top](#summary)**
+
+
+### Statistics
+
+- [Http Archive](http://httparchive.org/) - The HTTP Archive tracks how the Web is built.
 
 **[back to top](#summary)**
