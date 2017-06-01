@@ -1,4 +1,4 @@
-frontend-performance-tools
+Frontend Performance Tools
 ==============
 
 A few tools I usually use to test performance in my web pages.
