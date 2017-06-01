@@ -1,7 +1,7 @@
 Frontend Performance Tools
 ==============
 
-A few tools I usually use to test performance in my web pages.
+A few tools I usually use to improve or to test performance in my web pages.
 
 # Summary
 
