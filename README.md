@@ -3,14 +3,14 @@ Frontend Performance Tools
 
 A few tools I usually use to test performance in my web pages.
 
-## Summary
+# Summary
 
 - [Automation](#automation)
 - [Compression](#compression)
 - [Concatenation](#concatenation)
 - [HTTP Server](#http-server)
 - [Image](#image)
-- [Statistics](#statistics)
+- [Statistic](#statistic)
 
 
 ### Automation
@@ -53,7 +53,7 @@ A few tools I usually use to test performance in my web pages.
 **[back to top](#summary)**
 
 
-### Statistics
+### Statistic
 
 - [Http Archive](http://httparchive.org/) - The HTTP Archive tracks how the Web is built.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Make your web pages fast on all devices.
