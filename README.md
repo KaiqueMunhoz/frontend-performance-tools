@@ -8,6 +8,7 @@ A few tools I usually use to test performance in my web pages.
 - [Automation](#automation)
 - [Compression](#compression)
 - [HTTP Server](#http-server)
+- [Image](#image)
 - [Statistics](#statistics)
 
 
@@ -31,6 +32,14 @@ A few tools I usually use to test performance in my web pages.
 
 - [Google App Engine](https://cloud.google.com/appengine/) - Build scalable web and mobile backends in any language on Google’s infrastructure
 - [NGINX](https://nginx.org/en/) - An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+
+**[back to top](#summary)**
+
+### Image
+
+- [Kraken.io](https://kraken.io/web-interface) - Free Online Image Optimizer
+- [SVGOMG](https://jakearchibald.github.io/svgomg/) - SVG compression tool
+- [TinyPNG](https://tinypng.com/) - Smart PNG and JPEG compression
 
 **[back to top](#summary)**
 
